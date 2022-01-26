@@ -1,0 +1,117 @@
+body{
+    width: 1000px;
+    height: 1800px;
+    margin: 0px auto;
+    font-family: verdana;
+}
+
+/* Slides/Image/Large Image */
+body section .slide{
+    width: 978px;
+    height: 490px;
+    float: left;
+    margin:0px 10px 10px 10px;
+}
+
+body section .slide img{
+    margin-left:20px;
+    float: left;
+}
+body section .small-image{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body section .small-image img{
+    width: 220px;
+    height: 82px;
+}
+
+/* Main Content */
+.main-content{
+    width: 746px;
+    height: 980px;
+    float:left;
+    margin: 0px 10px 0px 0px;
+}
+.cont-one{
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 20px 10px 10px 20px;
+    font-size: 18px;
+    text-align:center;
+}
+#price{
+    color:rgb(172, 172, 172);
+    font-size: 12px;
+}
+.main-content a{
+    color:black;
+    font-size: 12px;
+}
+
+.cont-two {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 20px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-three {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 20px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-four {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 20px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-five {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-six {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-seven {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 20px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-eight {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}
+.cont-nine {
+    width:222px;
+    height: 315px;
+    float:left;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+    text-align:center;
+}

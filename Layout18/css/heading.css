@@ -1,0 +1,47 @@
+/* Heading Section */
+body section header {
+    width: 978px;
+    height: 130px;
+    float: left;
+    margin: 10px 10px 0px 10px;
+}
+body section header .header-left{
+    height: 90px;
+    width: 469px;
+    float:left;
+    margin: 20px;
+    font-size: 50px;
+}
+body section header .header-right{
+    height: 130px;
+    width: 469px;
+    float:left;
+    font-size: 10px;
+}
+body section header .header-right div{
+    font-size: 18px;
+    margin: 20px 13px 0px 0px;
+    text-align:right;
+}
+body section header .header-right form{
+    margin-left: 85px;
+    float: left;
+    margin-top:6px;
+}
+body section header .header-right .cart{
+    font-size: 13px;
+    float:left;
+    margin:0px;
+    padding: 5px;
+    color:rgb(172, 172, 172);
+}
+body section header .header-right form #currency{
+    height: 30px;
+    color:rgb(172, 172, 172);
+}
+body section header .header-right input{
+    width: 47px;
+    height: 24px;
+    color:rgb(172, 172, 172);
+   
+}

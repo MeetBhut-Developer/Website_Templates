@@ -1,0 +1,48 @@
+/* Navigation/Menu Section */
+body section nav{
+    width: 978px;
+    height: 50px;
+    float: left;
+    /* border:1px solid; */
+    margin: 0px 10px 0px 10px;
+}
+body section nav .menu{
+    height: 30px;
+    width: 550px;
+    float: left;
+    list-style: none;
+    text-align: center;
+    padding: 9px ;
+    margin: 10px 5px 5px 0px ;
+}
+body section nav .menu li{
+    padding-left: 10px;
+    border-right: 1px  solid#ccc;
+    float: left;
+    line-height: 7px; 
+    list-style: none; 
+}
+.menu li:hover{
+    color:red;
+}
+
+
+/* Search Bar */
+body section nav form {
+    height: 50px;
+    width: 400px;
+    float:left;
+    margin-top: 10px;
+}
+body section nav form input{
+    width: 193px;
+    height: 22px;
+    margin-left: 95px;
+    
+}
+body section nav form button{
+    width: 91px;
+    height: 25px;
+    background-color:black;
+    color: white;  
+}

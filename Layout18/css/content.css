@@ -1,0 +1,88 @@
+.left-content{
+    width: 215px;
+    height: 980px;
+    float:left;
+    margin: 10px;
+}
+.category{
+    height: 280px;
+    width: 214px;
+    float:left;
+}
+#category{
+    font-size:18px;
+    font-family: vardan; 
+    margin-left: 25px;
+    margin-top: 25px;    
+}
+#ul{
+    color:rgb(172, 172, 172);
+    font-size: 14px;
+    padding-top:5px;
+    list-style: none;   
+}
+#ul li{
+    padding-top: 5px;
+}
+#ul li:hover{
+    color:red
+}
+.login{
+    width: 189px;
+    height: 300px;
+    float:left;
+    margin-left: 25px;
+}
+.login button{
+    width: 91px;
+    height: 30px;
+    background-color:black;
+    color:white;  
+}
+.user-forgot{
+    font-size:14px;
+    color:rgb(172, 172, 172);
+}
+.user-forgot p:hover{
+    color:black;
+}
+.left-content img{
+    margin-top: 52px;
+    width:210px;
+    height: 350px;
+}
+
+
+/* Footer */
+.footer{
+    height:85px;
+    width:1000px;
+    float:left;
+    margin-top: 25px;
+    border-top: 1px solid;
+    border-color:rgb(172, 172, 172); 
+    /* background-color:rgb(94, 63, 16); */
+}
+div .footer-nav{
+    height:20px;
+    margin-top: 20px;
+    width:1000px;
+    border:1px solid;
+    float:left;
+}
+.footer-nav ul li{
+    margin:0px;
+    padding:0px;
+    margin-left: 30px;
+    list-style: none;
+    float:left;
+    color:rgb(172, 172, 172); 
+    font-size: 18px;
+}
+.footer-nav ul li:hover{
+    color:red;
+}
+.footer-nav p{
+    font-size: 12px;
+    padding-left: 70px;
+}
